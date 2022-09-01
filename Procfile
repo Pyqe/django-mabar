@@ -1,0 +1,1 @@
+web: gunicorn Mabar.wsgi --log-file -
